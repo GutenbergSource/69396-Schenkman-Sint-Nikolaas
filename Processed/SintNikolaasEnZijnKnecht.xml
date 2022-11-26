@@ -1,0 +1,251 @@
+<TEI.2 lang="nl-1900" xml:lang="nl-1900"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Sint Nikolaas en zijn Knecht</title><author key="Schenkman, Jan" ref="https://viaf.org/viaf/14522778/">Jan Schenkman (1806&#8211;1863)</author><respStmt><resp lang="en" xml:lang="en">Transcription</resp><name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="OLN">#####</idno><idno type="OLW">#####</idno><idno type="OCLC">#####</idno><idno type="LibThing">#####</idno><idno type="PGclearance">20221119082934schenkman</idno><idno type="PGSrc">69396-Schenkman-Sint-Nikolaas</idno><idno type="epub-id">urn:uuid:066ad9d3-d625-4154-bce2-3edfe956836f</idno><idno type="PGnum">69396</idno><date>2022-11-20</date><availability lang="nl" xml:lang="nl"><p>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopi&#xEB;ren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op <xref url='https://www.gutenberg.org/'>www.gutenberg.org</xref>.
+
+
+
+</p></availability></publicationStmt><notesStmt><note type="Description">Veel van de tradities waarmee in Nederland het Sinterklaasfeest wordt gevierd, vinden hun oorsprong&#8212;of in ieder geval hun eerste vermelding op schrift&#8212;in dit prentenboekje van Jan Schenkman uit 1850. Hierin kwam voor het eerst de bekende stoomboot aan, en maakte ook zijn moorse knecht zijn debuut, waar tegenwoordig zoveel om te doen. Dat zijn vertrek per luchtballon niet is aangeslagen, is om praktische redenen goed te begrijpen.</note><note type="Credits">Geproduceerd door Jeroen Hellingman voor Project Gutenberg.</note></notesStmt><sourceDesc><bibl><author>J. Schenkman</author>
+<title>Sint Nikolaas en zijn Knecht</title>
+<date>[1850]</date></bibl></sourceDesc></fileDesc><encodingDesc lang="nl" xml:lang="nl"><p>Dit boek is weergegeven in oorspronkelijke schrijfwijze. Afgebroken woorden aan het einde van de regel zijn stilzwijgend hersteld. Kennelijke zetfouten in het origineel zijn verbeterd. Deze verbeteringen zijn aangegeven in de colofon aan het einde van dit boek.</p><tagsDecl lang="xx" xml:lang="xx"><rendition selector=".small">font-size: small;</rendition><rendition selector=".large">font-size: large;</rendition><rendition selector=".center">text-align: center;</rendition><rendition selector=".i4">text-indent: 3em;</rendition><rendition selector=".right">text-align: right;</rendition></tagsDecl></encodingDesc><profileDesc><langUsage lang="nl" xml:lang="nl"><language id="nl-1900">Nederlands (Spelling De Vries-Te Winkel)</language><language id="nl">Nederlands</language><language id="en">Engels</language><language id="xx">Geen taalkundige inhoud</language></langUsage><textClass><keywords><list><item>#####</item></list></keywords></textClass></profileDesc><revisionDesc><list><item>2022-11-19 Begonnen.
+    </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/voorkant.jpg)"><figDesc>Oorspronkelijke voorkant.</figDesc></figure>
+
+</p><p rend="center large">SINT NIKOLAAS<lb/>
+EN ZIJN<lb/>
+KNECHT.
+</p><p rend="center">AMSTERDAM&#8212;G. THEOD. BOM.
+
+
+</p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/titelpagina.png)"><figDesc>Oorspronkelijke titelpagina.</figDesc></figure>
+
+</p></div1><titlePage><docTitle><titlePart type="main">SINT NIKOLAAS</titlePart><titlePart type="sub">EN ZIJN
+KNECHT.</titlePart></docTitle><byline>DOOR
+<lb/>
+<docAuthor>J. SCHENKMAN.</docAuthor></byline><docImprint>AMSTERDAM,<lb/>
+G. THEOD. BOM.</docImprint></titlePage><pb id="pb5"/><div1 id="voorwoord" rend="toc-head(Jeugdige vriendjes!)" type="Preface"><lg rend="font(italic)" type="Group"><l>Jeugdige vriendjes! gaat vrolijk en blij,
+    </l><l>Hier in dit boekje de prentjes beschouwen;
+    </l><l>Leest er de versjes al lagchende bij,
+    </l><l>(Immers dit kunt gij, zoo als wij vertrouwen.)
+    </l><l>Ziet hoe Sint Niklaas zijn leven soms waagt,
+    </l><l>Om u genoegen en vreugde te geven.
+    </l><l>O, dat gij altijd z&#243;&#243; deugdzaam mogt leven,
+    </l><l>Dat hij zich nimmer die moeite beklaagt.</l></lg><p rend="right">J. S.
+
+<pb id="pb6"/></p></div1></front><body><div1 id="v1" type="Poem"><head>Aankomst van Sint Nikolaas.</head><lg type="Group"><l>Zie, ginds komt de Stoomboot
+        </l><l rend="i4">Uit Spanje we&#234;r aan;
+    </l><l>Zij brengt ons Sint Niklaas,
+        </l><l rend="i4">Ik zie hem reeds staan!
+    </l><l>Hoe huppelt zijn paardje
+        </l><l rend="i4">Het dek op en ne&#234;r,
+    </l><l>Hoe waaijen de wimpels
+        </l><l rend="i4">Al heen en al we&#234;r!
+    </l><l>Zijn knecht staat te lagchen,
+        </l><l rend="i4">En wenkt ons reeds toe:
+    </l><l>&#8222;Wie zoet is krijgt lekkers,
+        </l><l rend="i4">&#8222;Wie stout was&#8212;een ro&#234;.&#8221;</l></lg><p><figure id="plaat01"><figDesc>Aankomst van Sint Nikolaas.</figDesc></figure>
+
+
+<pb id="pb11"/></p></div1><div1 id="v2" type="Poem"><head>Plegtige intogt van Sint Nikolaas.</head><lg type="Group"><l>Daar rijdt hij de stad door,
+        </l><l rend="i4">Op &#8217;t prachtigst gekleed;
+    </l><l>Zijn knecht draagt de geldkist
+        </l><l rend="i4">O, zie hoe hij zweet.
+    </l><l>Het regent er bloemen,
+        </l><l rend="i4">Elk jubelt en juicht,
+    </l><l>Terwijl zich Sint Niklaas
+        </l><l rend="i4">Op &#8217;t vriendelijkst buigt.
+    </l><l>&#201;&#233;n echter verschuilt zich,
+        </l><l rend="i4">En tracht hem te ontvli&#234;n,
+    </l><l>&#8217;t Is <hi rend="asc">Willem</hi>, een domoor,
+        </l><l rend="i4">Maar &#8217;t wordt ras gezien.</l></lg><p><figure id="plaat02"><figDesc>Plegtige intogt van Sint Nikolaas.</figDesc></figure>
+
+
+<pb id="pb12"/></p></div1><div1 id="v3" type="Poem"><head>St. Nikolaas bij den Banketbakker.</head><lg type="Group"><l>Wat heerlijke Poppen!
+        </l><l rend="i4">Wat keurig banket
+    </l><l>Staat hier voor de glazen,
+        </l><l rend="i4">Zoo sierlijk en net!
+    </l><l>Wie trad er naar binnen?
+        </l><l rend="i4">O, gluur door die ruit!
+    </l><l>De Bisschop koopt alles;
+        </l><l rend="i4">Zijn knecht draagt het uit.
+    </l><l>&#8217;t Zijn zakken vol lekkers,
+        </l><l rend="i4">En koeken er bij;
+    </l><l>O, kreeg ik er &#233;&#233;ntje
+        </l><l rend="i4">Wat was ik dan blij!</l></lg><p><figure id="plaat03"><figDesc>St. Nikolaas bij den Banketbakker.</figDesc></figure>
+
+
+<pb id="pb17"/></p></div1><div1 id="v4" type="Poem"><head>St. Nikolaas in den Boekwinkel.</head><lg type="Group"><l>Wel hoe! kwam Sint Niklaas
+        </l><l rend="i4">Zoo waar nu we&#234;r hier,
+    </l><l>Om boekjes te koopen?&#8212;
+        </l><l rend="i4">Dat doet mij pleizier;
+    </l><l>Want zie, dat &#8217;s nog beter
+        </l><l rend="i4">Dan koek of banket;
+    </l><l>Een boekje met prentjes
+        </l><l rend="i4">Geeft jaren lang pret.
+    </l><l>O, vond ik er morgen
+        </l><l rend="i4">Maar een in mijn schoen!
+    </l><l>&#8217;k Gaf hem en zijn knecht dan
+        </l><l rend="i4">Een hand en een zoen.</l></lg><p><figure id="plaat04"><figDesc>St. Nikolaas in den Boekwinkel.</figDesc></figure>
+
+<pb id="pb18"/></p></div1><div1 id="v5" type="Poem"><head>St. Nikolaas op den Schoorsteen.</head><lg type="Group"><l>O, zie eens naar boven!
+        </l><l rend="i4">Maar schrik er niet van.
+    </l><l>Wat ziet ge op dien schoorsteen?
+        </l><l rend="i4">Een paard en een&#8217; man!
+    </l><l>Ja zeker, hij is het!
+        </l><l rend="i4">Zijn knecht staat er bij;
+    </l><l>Hij gluurt naar beneden,
+        </l><l rend="i4">Misschien wel naar mij!
+    </l><l>Ik groet u, Sint Niklaas!
+        </l><l rend="i4">Houd vrij mij in &#8217;t oog,
+    </l><l>Graag kwam ik eens bij u,
+        </l><l rend="i4">Maar &#8217;t dak is zoo hoog.</l></lg><p><figure id="plaat05"><figDesc>St. Nikolaas op den Schoorsteen.</figDesc></figure>
+
+
+<pb id="pb23"/></p></div1><div1 id="v6" type="Poem"><head>St. Nikolaas luistert aan de Deur.</head><lg type="Group"><l>Wie gluurt daar door &#8217;t reetje?
+        </l><l rend="i4">De deur is niet digt!
+    </l><l>&#8217;t Is Niklaas, die luistert
+        </l><l rend="i4">Wat ieder verrigt.
+    </l><l>Wie traag is in &#8217;t leeren,
+        </l><l rend="i4">Of stout is of boos,
+    </l><l>Sint Niklaas hoort alles,
+        </l><l rend="i4">Hij luistert altoos!
+    </l><l>Hem kan men niet foppen,
+        </l><l rend="i4">Geloof mij opregt,
+    </l><l>Wat hij niet gezien heeft,
+        </l><l rend="i4">Vertelt hem zijn knecht.</l></lg><p><figure id="plaat06"><figDesc>St. Nikolaas luistert aan de Deur.</figDesc></figure>
+
+<pb id="pb24"/></p></div1><div1 id="v7" type="Poem"><head>St. Nikolaas houdt Boek.</head><lg type="Group"><l>Sint Niklaas, de Bisschop,
+        </l><l rend="i4">Schrijft hier in zijn boek,
+    </l><l>Al wat hij gehoord heeft
+        </l><l rend="i4">Bij &#8217;t jaarlijksch bezoek.
+    </l><l>Wie zoet was of stout was,
+        </l><l rend="i4">Hij voegt het er bij;
+    </l><l>Wat zou hij wel schrijven
+        </l><l rend="i4">Van u en van mij?&#8212;
+    </l><l>O, vraag het zijn knecht eens,
+        </l><l rend="i4">Die maakt toch dit jaar.
+    </l><l>Voor al, wie niet stout was,
+        </l><l rend="i4">De zakjes we&#234;r klaar.</l></lg><p><figure id="plaat07"><figDesc>St. Nikolaas houdt Boek.</figDesc></figure>
+
+<pb id="pb29"/></p></div1><div1 id="v8" type="Poem"><head>St. Nikolaas op Strooiavond.</head><lg type="Group"><l>Het leeft in den schoorsteen,
+        </l><l rend="i4">Hoor, hoor dat geraas!
+    </l><l>Hoe rollen hier de app&#8217;len,
+        </l><l rend="i4">&#8217;t Is vast Sint Niklaas!
+    </l><l>Maar neen... &#8217;t Is zijn knechtje,
+        </l><l rend="i4">Dat zwart is van kleur;
+    </l><l>Want ginds staat de Bisschop,
+        </l><l rend="i4">Voor de opene deur.
+    </l><l>Zing spoedig een liedje,
+        </l><l rend="i4">Zie, zie, hoe hij gooit!
+    </l><l>Hoe harder wij zingen,
+        </l><l rend="i4">Hoe ruimer hij strooit.</l></lg><p><figure id="plaat08"><figDesc>St. Nikolaas op Strooiavond.</figDesc></figure>
+
+<pb id="pb30"/></p></div1><div1 id="v9" type="Poem"><head>St. Nikolaas in de School.</head><lg type="Group"><l>&#8222;Wel meester! hoe gaat het
+        </l><l rend="i4">&#8222;Met <hi rend="asc">Mina</hi> en <hi rend="asc">Koo</hi>?&#8221;
+    </l><l>&#8222;&#8222;Ja waarde Sint Niklaas!
+        </l><l rend="i4">&#8222;&#8222;Dat is maar, z&#243;&#243;, z&#243;&#243;!&#8221;&#8221;
+    </l><l>&#8222;Verdienen ze een prijsje
+        </l><l rend="i4">&#8222;Of zijn zij &#8217;t niet waard?&#8221;
+    </l><l>&#8222;&#8222;Zij zijn als al de and&#8217;ren,
+        </l><l rend="i4">&#8222;&#8222;Wat vrolijk van aard.&#8221;
+    </l><l>&#8222;Welnu dan, wie stil is
+        </l><l rend="i4">&#8222;En vlijtig hier leert,
+    </l><l>&#8222;Ziet, als ik terug kom,
+        </l><l rend="i4">&#8222;Een prijs zich vereerd.&#8221;</l></lg><p><figure id="plaat09"><figDesc>St. Nikolaas in de School.</figDesc></figure>
+
+<pb id="pb35"/></p></div1><div1 id="v10" type="Poem"><head>St. Nikolaas in de Kinderkamer.</head><lg type="Group"><l>Een tafel vol speelgoed!
+        </l><l rend="i4">Wie had dit verwacht?
+    </l><l>Nog nooit heeft Sint Niklaas
+        </l><l rend="i4">Z&#243;&#243; ruim ons bedacht.
+    </l><l>Een zak Chocolaadjes!
+        </l><l rend="i4">Een mand vol banket!
+    </l><l>Vier boeken met prentjes,
+        </l><l rend="i4">Zoo keurig en net!
+    </l><l>En dan nog voor ieder
+        </l><l rend="i4">Een letter er bij!
+    </l><l>O, was ieder kind, zoo
+        </l><l rend="i4">Gelukkig als wij!</l></lg><p><figure id="plaat10"><figDesc>St. Nikolaas in de Kinderkamer.</figDesc></figure>
+
+
+<pb id="pb36"/></p></div1><div1 id="v11" type="Poem"><head>St. Nikolaas bij Grootmama.</head><lg type="Group"><l>Wel Grootma, wel Grootma!
+        </l><l rend="i4">Kijk, dat vind ik mooi!
+    </l><l>Een tafel vol lekkers,
+        </l><l rend="i4">En dat voor wat hooi!
+    </l><l>Hoe klein was mijn schoentje,
+        </l><l rend="i4">Hoe groot dit present!
+    </l><l>En dan nog een boekje,
+        </l><l rend="i4">Een doos, en een prent!
+    </l><l>Wel Grootma, wel Grootma!
+        </l><l rend="i4">O geef mij een zoen!
+    </l><l>Ik breng, na een jaartje,
+        </l><l rend="i4">Op nieuw u mijn schoen.</l></lg><p><figure id="plaat11"><figDesc>St. Nikolaas bij Grootmama.</figDesc></figure>
+
+
+
+<pb id="pb41"/></p></div1><div1 id="v12" type="Poem"><head>St. Nikolaas bij een Rijk Kind.</head><lg type="Group"><l>&#8222;Sint Niklaas! kom binnen,
+        </l><l rend="i4">&#8222;Wat moois brengt gij mee?
+    </l><l>&#8222;Graag had ik een boekje!....
+        </l><l rend="i4">&#8222;&#8222;Ik schenk u er twee.
+    </l><l>&#8222;&#8222;Het een zal u leeren,
+        </l><l rend="i4">&#8222;&#8222;Dat Godsvrucht en deugd
+    </l><l>&#8222;&#8222;Meer waard zijn dan schatten,
+        </l><l rend="i4">&#8222;&#8222;De bron zijn van vreugd.
+    </l><l>&#8222;&#8222;Het tweede toont klaar u,
+        </l><l rend="i4">&#8222;&#8222;Wat vreugd men geniet,
+    </l><l>&#8222;&#8222;Zoo men van zijn&#8217; rijkdom
+    </l><l>&#8222;&#8222;Ook d&#8217; armen iets biedt.</l></lg><p><figure id="plaat12"><figDesc>St. Nikolaas bij een Rijk Kind.</figDesc></figure>
+
+
+
+<pb id="pb42"/></p></div1><div1 id="v13" type="Poem"><head>St. Nikolaas bij een&#8217; Snoeper.</head><lg type="Group"><l>De trommel is vol nog!
+        </l><l rend="i4">Geen mensch, die mij ziet;
+    </l><l>Dus spoedig een koekje,
+        </l><l rend="i4">Dat mist men toch niet.
+    </l><l>Help! Hemel, wat is dat,
+        </l><l rend="i4">Wie grijpt mij bij &#8217;t oor?
+    </l><l>O wee! &#8217;t is Sint Niklaas,
+        </l><l rend="i4">Hoe raak ik er door!
+    </l><l>Ach, Bisschop van Spanje!
+        </l><l rend="i4">Ach, laat mij maar gaan,
+    </l><l>&#8217;k Zal nooit aan den trommel
+        </l><l rend="i4">Mijn handen we&#234;r slaan.</l></lg><p><figure id="plaat13"><figDesc>St. Nikolaas bij een&#8217; Snoeper.</figDesc></figure>
+
+
+<pb id="pb47"/></p></div1><div1 id="v14" type="Poem"><head>St. Nikolaas bij een Arm Kind.</head><lg type="Group"><l>Wel is het Sint Niklaas,
+        </l><l rend="i4">Maar ach! niet voor mij!
+    </l><l>Vast gaat hij ons hutje
+        </l><l rend="i4">Stilzwijgend voorbij!
+    </l><l>O, mogt hij er komen,
+        </l><l rend="i4">Dan kreeg ik toch iets!
+    </l><l>Elk krijgt wat van avond,
+        </l><l rend="i4">Maar ik, helaas niets!
+    </l><l>&#8217;k Ben arm! ... maar wat zie ik?
+        </l><l rend="i4">Een pop van taai taai!
+    </l><l>O foei!&#8212;en ik morde!
+        </l><l rend="i4">Neen, dat was niet fraai!</l></lg><p><figure id="plaat14"><figDesc>St. Nikolaas bij een Arm Kind.</figDesc></figure>
+
+
+<pb id="pb48"/></p></div1><div1 id="v15" type="Poem"><head>St. Nikolaas bij Stoute Kinderen.</head><lg type="Group"><l>Ei, ei, die Sint Niklaas
+        </l><l rend="i4">Is lang na niet mak!
+    </l><l>Daar stopt hij twee knaapjes
+        </l><l rend="i4">Pardoes in zijn zak.
+    </l><l>&#8217;t Is loon vast naar werken,
+        </l><l rend="i4">En rijklijk verdiend.
+    </l><l>Hij straft niet graag kindren,
+        </l><l rend="i4">Maar is hun een vriend.
+    </l><l>O Bisschop! vergeef hun
+        </l><l rend="i4">Deez&#8217; enkelen keer,
+    </l><l>Schenk, schenk hun genade,
+        </l><l rend="i4">Zij doen het nooit we&#234;r!</l></lg><p><figure id="plaat15"><figDesc>St. Nikolaas bij Stoute Kinderen.</figDesc></figure>
+
+<pb id="pb53"/></p></div1><div1 id="v16" type="Poem"><head>St. Nikolaas vertrekt.</head><lg type="Group"><l>Sint Niklaas vertrekt we&#234;r!
+        </l><l rend="i4">Gebruik slechts uw oog,
+    </l><l>Daar stijgt hij op &#8217;t paardje
+        </l><l rend="i4">Per Luchtbal omhoog.
+    </l><l>Zijn knecht zit in &#8217;t schuitje,
+        </l><l rend="i4">Maar rilt als een blad;
+    </l><l>&#8217;k Wed dat hij veel liever
+        </l><l rend="i4">In &#8217;t Stoomschip weer zat!
+    </l><l>De Bisschop lacht hartlijk,
+        </l><l rend="i4">En vreest geen gevaar;
+    </l><l>Maar groet nog zijn vriendjes,
+        </l><l rend="i4">Tot &#8217;t volgende jaar.</l></lg><p><figure id="plaat16"><figDesc>St. Nikolaas vertrekt.</figDesc></figure>
+
+
+</p></div1></body><back id="backmatter"><divGen id="toc" type="toc"/><divGen type="Colophon"/></back></text></TEI.2>
